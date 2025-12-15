@@ -1,0 +1,4 @@
+{
+  "name": "n8n Sheet CRUD Manager",
+  "description": "A production-grade React frontend for managing Google Sheets data via n8n Webhooks."
+}
